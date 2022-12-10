@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, this is ZZwarn1998 😄, a newbie 🌱 just graduating from the school of computer science and technology. I obtained my bachelor's degree of Electronic Information Science and Technology in China University of Mining and Technology (CUMT) in 2021. Currently, I am enriching myself by learning software development, computer system and artificial intelligence. 
+Hello, this is ZZwarn1998 😄, a newbie 🌱 just graduating from the school of computer science and technology. I obtained my bachelor's degree of Electronic Information Science and Technology in China University of Mining and Technology (CUMT) in 2021. My main interests are software engineering and Artificial Intelligence. Currently, I am planning to enrich myself with knowledge of computer systems and computer simulations. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZwarn1998&layout=compact&langs_count=8&exclude_repo=ZZwarn1998,cs-self-learning,pr-crawler,travis-ci-tutorial-java,github-slideshow,desktop-tutorial,training-kit,pmd,toefl_vocabulary)](https://github.com/anuraghazra/github-readme-stats)
